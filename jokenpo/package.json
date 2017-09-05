@@ -1,0 +1,22 @@
+{
+  "name": "nodenpo",
+  "version": "1.0.0",
+  "description": "A simple jokenpo game to Btime interview :D",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index"
+  },
+  "keywords": [
+    "Node.js",
+    "Btime",
+    "JS"
+  ],
+  "author": "Igor Franca",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "nodemon": "^1.12.0"
+  },
+  "dependencies": {
+    "seed-random": "^2.2.0"
+  }
+}
